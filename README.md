@@ -2,6 +2,29 @@
 
 Thank you JLCPCB for sponsoring this project. Please order your PCBs at https://jlcpcb.com/RAT
 
+Hardware components
+JLCPCB Customized PCB ×	1
+
+NE555 Timer through hole ×	1	
+
+IC socket 8 pins 2.54mm through hole ×	1	
+
+Male Header 40 Position 1 Row (0.1") ×	1	
+
+1N4007 – High Voltage, High Current Rated Diode ×	2	
+
+3386 100k Ohm Potentiometer ×	1	
+
+0.25W 10k Ohm Resistor ×	1	
+
+Capacitor 10 nF ×	2
+
+Hand tools and fabrication machines
+
+Soldering iron (generic)
+
+Solder Wire, Lead Free
+
 This project is about 555 Timer which produces varying duty cycle from about 36% to about 95% at fixed frequency. Use a ceramic capacitor for C2.
 
 I would also like to thank the online community for sharing the schematic to build the circuit.
